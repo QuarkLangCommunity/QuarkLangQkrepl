@@ -1,5 +1,10 @@
 # QuarkLangQkrepl
 
+> **Superseded. The maintained implementation** is
+> [`cmd/qkrepl`](https://github.com/QuarkLangCommunity/QuarkLangQkc/tree/main/cmd/qkrepl)
+> in the QuarkLang compiler repository. This standalone repository is kept for history; it is not
+> updated from that source, and its code differs from the maintained implementation.
+
 QuarkLang 交互式解释器（REPL）——工具链成员。
 
 ## 用法
